@@ -1,2 +1,2 @@
 # Analyze-social-media-using-python
-Aim is to analyze the performance of different types of posts based on categories, such as health, family, food, etc. to help clients optimize their social media strategy and increase their reach and engagement. using python.
+The objective of this project is to analyze tweets (or other social media data) and gain insights into user engagement. Explore the data set using visualization techniques to understand the distribution of likes across different categories. Finally, to analyze the data to draw conclusions about the most popular categories and the overall engagement on the platform.
